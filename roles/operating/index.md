@@ -14,6 +14,7 @@
 | `research-evidence` | Evidence-First Researcher | Market Research | default |
 | `security-risk` | Risk Gatekeeper | Security Manager | default |
 | `final-approver` | Release Approver | Final Review Agent | default |
+| `secretary` | Executive Secretary | Secretary Agent | default |
 | `codex-lead` | Engineering Coordinator | Codex Team Lead | default |
 | `codex-arch` | System Architect | Architecture Agent | default |
 | `codex-dev` | Fullstack Builder | Dev Agent | default |
